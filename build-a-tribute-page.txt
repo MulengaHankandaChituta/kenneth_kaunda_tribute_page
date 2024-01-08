@@ -1,0 +1,84 @@
+** start of undefined **
+
+<! doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+      <main id="main">
+        <h1 id="title">Dr. Kenneth Kaunda</h1>
+        <div id="img-div">
+          <img id="image" src="https://www.gettyimages.com/detail/news-photo/queen-elizabeth-II-stands-with-president-kenneth-kaunda-as-news-photo/506228944?adppopup=true" />
+          
+          <div id="img-caption">
+            <p>
+            Dr. Kenneth Kaunda, the first President of Zambia, alongside her Majesty Queen Elizabeth the second.
+            </p>
+            </div>
+            <div id="tribute-info">
+              <p>
+                Dr. Kenneth Kaunda was a prominent political leader and the first President of Zambia This tribute page celebrates his life, contributions, and impact on the history of Zambia.
+                </p>
+                </div>
+                <a id="tribute-link" href="https://en.wikipedia.org/wiki/Kenneth Kaunda" target="_blank">
+                Learn more about Dr. Kenneth Kaunda
+                </a>
+                </main>
+                </body>
+                </html>
+
+** end of undefined **
+
+** start of undefined **
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+#main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+#title {
+  color: #333;
+}
+#img-div {
+  margin-top: 20px;
+}
+#image {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+#img-caption {
+  color: #777;
+}
+#tribute-info {
+  margin-top: 20px;
+}
+#tribute-link {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+  background-color: #333;
+  color: #fff;
+  border-radius: 5px;
+}
+#tribute-link:hover {
+  background-color: #555;
+}
+
+
+** end of undefined **
+
